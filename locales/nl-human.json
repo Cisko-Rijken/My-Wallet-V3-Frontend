@@ -11,9 +11,9 @@
   "CLICK_HERE_TO_CREATE_WALLET":"klik hier om een nieuwe wallet te maken",
   "OR" : "Of",
   "WELCOME_BACK":"Welkom terug",
-  "LOGIN_BELOW":"Log hieronder in op je wallet",
+  "LOGIN_BELOW":"Log hieronder in op uw wallet",
   "CREATE_A_WALLET":"Maak een nieuwe wallet",
-  "FIND_GUID_EXPLAIN":"De login link is verstuurd naar je e-mailadres, bijvoorbeeld <i>blockchain.info\/wallet\/1111-222-333...<\/i> De reeks van cijfers en streepjes aan het einde van de link is je Wallet-ID.",
+  "FIND_GUID_EXPLAIN":"De login link is verstuurd naar uw e-mailadres, bijvoorbeeld <i>blockchain.info\/wallet\/1111-222-333...<\/i> De reeks van cijfers en streepjes aan het einde van de link is je Wallet-ID.",
   "ABOUT":"Over",
   "WALLET":"Wallet",
   "UID":"Wallet ID",
@@ -50,6 +50,6 @@
   "MOVED_BITCOIN_TO":"Verplaatst",
   "ADVANCED":"Geavanceerd",
   "CONTINUE":"Volgende",
-  "CONFIRM_EMAIL" : "Bevestig Je Email Address",
+  "CONFIRM_EMAIL" : "Bevestig uw Email Address",
   "GO_VERIFY_EMAIL" : "Verify Email"
 }
